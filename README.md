@@ -5,5 +5,5 @@
 ### 👋 Hello, world.  
 
 Cybersecurity Developer  
-Purist OOP + AGI · ELF Binary Analysis · System Programming · Backend  
+Purist OOP + LLM Integration · ELF Binary Analysis · System Programming · Backend  
 [ForgeBYTES](https://github.com/ForgeBYTES)
