@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="BYTE BY BYTE" />
+    <img src="banner.png" alt="" />
 </p>
 
 LLM Orchestration · Composition-first OOP · ELF Binary Analysis · Systems Programming · Backend  
