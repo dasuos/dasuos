@@ -3,5 +3,5 @@
 </p>
 
 Agentic Development Loop · LLM Orchestration · Composition-first OOP · ELF Binary Analysis · Systems Programming · Backend  
-Building explainable anomaly detection for ELF binaries using a controlled, agent-driven development loop.  
+Building explainable structural and behavioral anomaly detection for ELF binaries.  
 [ForgeBYTES](https://github.com/ForgeBYTES) · [forgebytes.io](https://forgebytes.io)
