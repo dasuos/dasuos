@@ -2,7 +2,7 @@
     <img src="banner.png" alt="" />
 </p>
 
-ELF Binary Analysis · Systems Programming · Backend
+ELF Binary Analysis · Systems Programming · Backend  
 Composition-first OOP · LLM Orchestration · Agentic Development
 
 [ForgeBYTES](https://github.com/ForgeBYTES) · [forgebytes.io](https://forgebytes.io)
